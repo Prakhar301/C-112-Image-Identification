@@ -1,0 +1,56 @@
+body{
+    font-family:'Special Elite', cursive !important;
+    background-color: coral;
+}
+h1{
+    background-color:cornflowerblue;
+    width:1000px;
+    border-radius: 15px;
+    height: 50px;
+    padding: 10px;
+}
+.logo{
+    width:50px;
+    height:50px;
+}
+.bulb{
+    width:100px;
+    height:100px;
+}
+#camera,#snapshot{
+    border:cornflowerblue 5px;
+    border-style: groove;
+    height: 260px;
+    width:260px;
+    box-shadow: 8px 17px 27px crimson;
+}
+.dt{
+    background-color:darkorange;
+    padding: 15px;
+    margin-top: 15px;
+    width:600px;
+    border:royalblue groove 10px;
+    box-shadow:slateblue 15px 25px 35px;
+    margin:10px;
+}
+.dt label{
+    background-color:tomato;
+    box-shadow:violet 2px 3px 4px;
+    width:250px;
+    margin:10px;
+}
+.footer_div h4{
+background: white; 
+border-radius: 10px; 
+padding: 5px; 
+box-shadow: 5px 5px 18px white; 
+} 
+.copy_right_footer{
+position: fixed;
+color: #6c757d; 
+bottom: 0; 
+width: 100%; 
+background-color: #f5f5f5; 
+line-height: 3; 
+text-align: center; 
+}
